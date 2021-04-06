@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "roshanAssetExists",
+        "transactionLabel": "A test roshanAssetExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createRoshanAsset",
+        "transactionLabel": "A test createRoshanAsset transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readRoshanAsset",
+        "transactionLabel": "A test readRoshanAsset transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateRoshanAsset",
+        "transactionLabel": "A test updateRoshanAsset transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteRoshanAsset",
+        "transactionLabel": "A test deleteRoshanAsset transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
